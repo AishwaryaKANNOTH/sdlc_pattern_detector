@@ -1,0 +1,1 @@
+# sdlc_pattern_detector
